@@ -1,0 +1,110 @@
+body {
+    background: linear-gradient(rgba(221, 255, 84, 0.3), rgba(105, 124, 30, 0.3), rgba(78, 87, 42, 0.3));
+}
+
+#main {
+    background-color: darkcyan;
+    width: 90%;
+    height: 93%;
+    position: absolute;
+    top: 4%;
+    left: 6%;
+    opacity: 80%;
+    border-radius: 5%;
+    margin-bottom: 38px;
+}
+
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+    position: relative;
+    left: 4%;
+    top: 0px;
+    height: 51px;
+    width: 1041px;
+}
+
+#Logo {
+    background-image: url(images/Screenshot\ 2024-08-08\ 015636.png);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 45%;
+}
+
+label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(15, 15, 16);
+}
+#MType {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(11, 11, 11);
+    border-radius: 7px;
+}
+#Manu {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(11, 11, 11);
+    border-radius: 7px;
+}
+input {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(11, 11, 11);
+    border-radius: 7px;
+    width: 245px;
+}
+
+#bloc1 {
+    position: relative;
+    left: 3%;
+    top: 1%;
+}
+
+
+#addbtn {
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(109, 30, 30);
+    height: 25px;
+    width: 90px;
+}
+#addbtn:hover {
+    background-color: floralwhite;
+} 
+
+button {
+    border-radius: 5px;
+    border: none;
+    color:white;
+    background-color: rgb(109, 30, 30);
+    height: 25px;
+    width: 90px;
+}
+button:hover{
+    background-color:floralwhite;
+}
+
+#Bt_block1 {
+    position: relative;
+    top: 0%;
+    left: 2%;
+    height: 31px;
+    width: 1039px;
+}
+#grid_table {
+    
+    position: relative;
+    top: 1px;
+    left: 4px;
+    width: 533px;
+}
+
+#GV1 {
+    position: relative;
+   
+   
+    height: 122px;
+    width: 61%;
+    top: 3px;
+    left: -1093px;
+}
